@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">
-<img width="550px" src="https://github-readme-stats.vercel.app/api?username=anmol0409&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&bg_color=0D111700&text_color=AAFF00&custom_title=Tanay's+Github Stats" alt="Tanay's Github stats" />
+<img width="550px" src="https://github-readme-stats.vercel.app/api?username=anmol0409&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=39FF14&icon_color=39FF14&bg_color=0D111700&text_color=AAFF00&custom_title=Anmol's+Github Stats" alt="Anmol's Github stats" />
 <img width="550px" src="http://github-readme-streak-stats.herokuapp.com?user=anmol0409&hide_border=false&background=404040&border=98FB98&fire=0FFF50&sideNums=FC6401&currStreakLabel=0FFF50&currStreakNum=0FFF50&sideLabels=0FFF50&dates=0FFF50&stroke=0FFF50" />
 </div>
 
