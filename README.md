@@ -10,7 +10,7 @@
  
 - <img src="https://media.giphy.com/media/hdN3Dqcvrtbqv8OkXl/giphy.gif" style="height:40px;width:40px" align = "center"> Ask me about anything **Android Development**  :) 
 
-- <img src="https://media.giphy.com/media/euW6JDwrMn0BqyNC8t/giphy.gif" style="height:40px;width:40px" align = "center"> Fun fact: **I Love Anime and Development!!**
+- <img src="https://media.giphy.com/media/euW6JDwrMn0BqyNC8t/giphy.gif" style="height:40px;width:40px" align = "center"> Fun fact: **I Love Singing and Development!!**
 
 <img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-anmol0409&style=flat-square&color=232323">
 <hr>
